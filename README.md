@@ -1,2 +1,2 @@
-# flask-chatbot
+# flask-chatterbot
 Flask ChatBot Using Chatterbot
